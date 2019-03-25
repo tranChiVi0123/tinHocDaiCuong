@@ -96,6 +96,20 @@ ___
    6. Xác định một chỉ mục cơ sở dữ liệu cải thiện hiệu quả tra cứu trong khi cho phép thực thi tính duy nhất ở cấp cơ sở dữ liệu.  
    7. Chúng ta có thể thêm mật khẩu an toàn vào mô hình bằng has_secure_passwordphương thức tích hợp sẵn.  
    
+___  
+
+## Chương_7 Đăng kí  
+   1. Rails hiển thị thông tin gỡ lỗi hữu ích thông qua debugphương thức.  
+   2. Sass mixins cho phép một nhóm các quy tắc CSS được gói và sử dụng lại ở nhiều nơi.  
+   3. Rails đi kèm với ba môi trường tiêu chuẩn: development, test, và production.  
+   4. Chúng tôi có thể tương tác với người dùng dưới dạng tài nguyên thông qua một bộ URL REST tiêu chuẩn.  
+   5. Gravatars cung cấp một cách thuận tiện để hiển thị hình ảnh để đại diện cho người dùng.  
+   6. Trình form_fortrợ giúp được sử dụng để tạo các biểu mẫu để tương tác với các đối tượng Bản ghi hoạt động.  
+   7. Lỗi đăng ký sẽ hiển thị trang người dùng mới và hiển thị các thông báo lỗi được xác định tự động bởi Active Record.  
+   8. Rails cung cấp flashnhư một cách tiêu chuẩn để hiển thị các tin nhắn tạm thời.  
+   9. Đăng ký thành công tạo người dùng trong cơ sở dữ liệu và chuyển hướng đến trang hiển thị người dùng và hiển thị thông báo chào mừng.  
+   10.  Cấu hình ứng dụng sản xuất của mình để sử dụng SSL để liên lạc an toàn và Puma cho hiệu suất cao.  
+   
    
     
      
