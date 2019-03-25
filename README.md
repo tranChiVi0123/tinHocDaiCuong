@@ -84,6 +84,18 @@ ___
    3. CSS và bootrap  
    4 Biết thêm về SASS và SCSS  
    5. Kiểm tra tích hợp mô phỏng hiểu quả trình duyệt  
+  
+___
+
+## Chương_6 Mô hình hóa người dùng  
+   1. Sửa đổi mô hình dữ liệu của ứng dụng  
+   2. Active Record đi kèm với một số lượng lớn các phương thức để tạo và thao tác các mô hình dữ liệu.  
+   3. Xác nhận bản ghi hoạt động cho phép chúng tôi đặt các ràng buộc trên dữ liệu trong các mô hình của chúng tôi.  
+   4. Xác nhận phổ biến bao gồm sự hiện diện, chiều dài và định dạng.  
+   5. Biểu thức thông thường là khó hiểu nhưng mạnh mẽ.  
+   6. Xác định một chỉ mục cơ sở dữ liệu cải thiện hiệu quả tra cứu trong khi cho phép thực thi tính duy nhất ở cấp cơ sở dữ liệu.  
+   7. Chúng ta có thể thêm mật khẩu an toàn vào mô hình bằng has_secure_passwordphương thức tích hợp sẵn.  
+   
    
     
      
